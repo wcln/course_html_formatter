@@ -1,4 +1,4 @@
-package bernard.colin;
+package Perepelken.colin;
 
 import java.io.File;
 import java.io.IOException;
